@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap");
+
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: salmon;
+  font-family: "Poetsen One", sans-serif;
+  font-style: normal;
+}
